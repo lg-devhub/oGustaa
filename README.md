@@ -23,5 +23,5 @@
 <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 </div><br/>
 
-## "Conhece-te a ti mesmo e conhecerás o universo e os deuses."
-~ Sócrates
+## "Na medida que cada um de nós aprender que a matéria de que cada um de nós é feita, é idêntica a matéria com que todos os outros são feitos, na medida em que cada um de nós tiver consciência que a palavra semelhante, quer dizer semelhante mesmo, nós todos nos respeitaremos melhor."
+ ~ Enéas Ferreira Carneiro 
