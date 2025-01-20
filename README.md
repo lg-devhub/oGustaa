@@ -1,4 +1,4 @@
-# Me chame de Gustavo. Estou retornando a programação agora. Qualquer ajuda e direcionamento é bem-vindo :) 
+# Luiz Gustavo de Oliveira. Técnico em Desenvolvimento de Sistemas. Foco em Programação Back-End. A realizar Superior em Análise e Desenvolvimento de Sistemas.
 
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://gustavctt.netlify.app)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tigusta0)
