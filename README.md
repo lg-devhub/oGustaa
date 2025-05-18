@@ -1,4 +1,4 @@
-# Luiz Gustavo de Oliveira. Técnico em Desenvolvimento de Sistemas. Foco em Programação Back-End | Superior em Análise e Desenvolvimento de Sistemas.
+# Luiz Gustavo de Oliveira. Técnico em Desenvolvimento de Sistemas - SENAI. Programação Back-End | Superior em Análise e Desenvolvimento de Sistemas - UNITAU.
 
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://gustavctt.netlify.app)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/uoliveira._/)
